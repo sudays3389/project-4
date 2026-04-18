@@ -287,8 +287,39 @@ a{
     margin: 10px 0px;
 }
 .kalima11{
-    margin-top: 20px;
+    margin-top: 15px;
     font-size: 15px;
      color: grey;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.padding2{
+     padding: 230px 0px;
+}
+.knop2{
+    width: 230px;
+    height: 350px;
+}
+.img10{
+    width: 230px;
+    height: 260px;
+}
+.name1{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    margin-top: 10px;
+    text-align: center;
+}
+.about1{
+    color: grey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 14px;
+}
+.flex11{
+    display: flex;
+    gap: 50px;
+    justify-content: space-around;
+    margin: 20px 0px;
 }
