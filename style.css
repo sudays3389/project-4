@@ -325,7 +325,7 @@ a{
 }
 .conteiner6{
     width: 100%;
-    height: 900px;
+    height: 1150px;
     background-image: url("Background\ \(2\).png");
     background-position: center;
     background-repeat: no-repeat;
@@ -393,4 +393,23 @@ a{
 }
 .tire1{
     color: black;
+}
+.text20{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
+.asist7{
+    padding: 150px 150px;
+}
+.text21{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.flex13{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
 }
