@@ -157,3 +157,118 @@ a{
     font-weight: 500;
     font-size: 20px;
 }
+
+.conteiner3{
+    width: 100%;
+    height: 800px;
+}
+.asist3{
+    padding: 400px 150px;
+}
+.text9{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
+.text10{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    margin: 10px 0px;
+}
+.text11{
+    color: grey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
+.text12{
+    margin-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+.text13{
+    margin-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+.text14{
+    margin-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+.text15{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 30px;
+    margin-top: 20px;
+}
+.flex3{
+    display: flex;
+    justify-content: space-around;
+}
+.social{
+    margin-top: 50px;
+}
+.cosials{
+    display: block;
+    margin-top: 30px;
+}
+.conteiner6{
+    width: 100%;
+    height: 500px;
+    margin-top: 300px;
+}
+.asist6{
+    padding: 70px 150px;
+}
+.text22{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
+.text23{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+}
+.text24{
+    font-size: 19px;
+    margin-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.flex8{
+    display: flex;
+    justify-content: space-around;
+}
+.conteiner10{
+    width: 70%;
+    height: 300px;
+    margin-left: 300px;
+    background-image: url("./background\ \(5\).png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+.asist10{
+    padding: 50px 70px;
+}
+.text50{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
+.flex40{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.input40{
+    padding: 15px 10px;
+    width: 340px;
+    border:none;
+    margin-top: 30px;
+}
+.btn40{
+    padding: 15px 30px;
+    color: white;
+    background-color: orangered;
+    border: none;
+}
